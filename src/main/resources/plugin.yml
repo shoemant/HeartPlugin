@@ -1,0 +1,4 @@
+name: HeartPlugin
+main: com.Sumant.heartplugin.HeartPlugin
+version: 1.0
+api-version: 1.18
